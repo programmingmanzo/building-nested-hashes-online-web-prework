@@ -21,7 +21,8 @@ def bonus
   }
 
   #code your solution here:
-  heroine_status = epic_tragedy[:]
+  heroine_status = epic_tragedy[:heroine_friends]
+  
 
   
 
