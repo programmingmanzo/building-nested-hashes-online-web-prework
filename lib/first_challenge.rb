@@ -1,3 +1,6 @@
 def first_challenge
-   epic_tragedy = {family_names: {}}
+   epic_tragedy = {
+     montague: {},
+     capulet: {}
+   }
 end
